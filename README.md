@@ -1,5 +1,5 @@
 # go-frontend
-Simple HTML CSS JS CSS pack w/ Vue.js
+Simple HTML CSS JS pack w/ Vue.js
 
 ## Getting Started
 1. Clone the repo: `git clone git@github.com:LordZombi/go-frontend.git`
