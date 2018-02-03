@@ -1,0 +1,7 @@
+/node_modules
+/.idea
+.DS_Store
+npm-debug.log
+mix-manifest.json
+public/js/app.js
+yarn.lock
